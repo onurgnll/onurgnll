@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, I'm Onur</h1>
-<h3 align="center">A passionate frontend developer from Turkey</h3>
+<h1 align="center">Hello 👋, I'm Onur</h1>
+<h3 align="center">Student on Ondokuz Mayıs University and Full-stack developer</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=onurgnll" alt="onurgnll" /></a> </p>
+- 🌱 I’m currently learning **React,Spring Boot,Nodejs**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -17,4 +17,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=onurgnll&show_icons=true&locale=en" alt="onurgnll" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=onurgnll&" alt="onurgnll" /></p>
-
